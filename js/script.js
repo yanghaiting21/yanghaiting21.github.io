@@ -80,9 +80,8 @@ window.addEventListener("DOMContentLoaded", function() {
 });
 
 /**
- * 获取当前滚动条距离顶部高度
- *
- * @returns 距离高度
+ * 鑾峰彇褰撳墠婊氬姩鏉¤窛绂婚《閮ㄩ珮搴? *
+ * @returns 璺濈楂樺害
  */
 function getScrollTop () {
   return window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop;
